@@ -9,3 +9,5 @@ GIT BRANCH FEATURE/2010
 PARA CAMBIAR DE RAMA : GIT CHECKOUT "FEATURE/2010"
 
 para eliminar branch (GIT BRANCH -D "nombreRama")
+
+para publicar en el github ( git push -u origin main)
